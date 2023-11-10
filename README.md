@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Ejemplo GIF](https://kimchisama.files.wordpress.com/2018/05/midoriya-computer-gif.gif)
 <!--
 **bastivg/bastivg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
