@@ -1,10 +1,13 @@
-### Hola gente  😁👋👽
+### Hola raza  😁👋👽
 ![Ejemplo GIF](https://kimchisama.files.wordpress.com/2018/05/midoriya-computer-gif.gif)
 
-<h2> Intento de Desarrollador de Software. </h2>
+<h2> Desarrollador de Software. </h2>
 <!--
 **bastivg/bastivg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Tradingx 🧑‍💻
+Ia / Ml  🤖
+Data     🗺️
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
