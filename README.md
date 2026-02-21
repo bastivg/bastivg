@@ -2,10 +2,14 @@
 ![Ejemplo GIF](https://kimchisama.files.wordpress.com/2018/05/midoriya-computer-gif.gif)
 
 <h2> Desarrollador de Software. </h2>
+<h3> Tradingx 🧑‍💻 💸</h3>
+<h3> AI / Ml  🤖 </h3>
+<h3> Data    🗺️ </h3>
+
 <!--
 **bastivg/bastivg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3> Tradingx 🧑‍💻
+
 Ia / Ml  🤖
 Data     🗺️ </h3>
 Here are some ideas to get you started:
