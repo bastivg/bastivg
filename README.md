@@ -1,4 +1,4 @@
-### Hola raza  😁👋👽
+### 
 ![Ejemplo GIF](https://kimchisama.files.wordpress.com/2018/05/midoriya-computer-gif.gif)
 
 <h2> Desarrollador de Software. </h2>
